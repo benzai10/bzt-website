@@ -5,7 +5,7 @@ module.exports = {
     description: `About everything that flows.`,
     siteUrl: `https://benzai10.com/`,
     social: {
-      twitter: `benzai101`,
+      twitter: `thebenzai10`,
     },
   },
   plugins: [
