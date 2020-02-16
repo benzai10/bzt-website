@@ -11,6 +11,8 @@ Objectives
 3. Add or edit some content
 4. Deploy it to Firebase Hosting
 
+![Gatsby Website](./bzt-website.jpg)
+
 Gatsby JS
 ---
 Gatsby is a free and open source framework based on React that generates very fast websites. Read more [here](https://www.gatsbyjs.org/docs/).
