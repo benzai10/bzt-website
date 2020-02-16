@@ -1,6 +1,6 @@
 ---
 title: Why Benzai10?
-date: "2020-02-20T18:53:00.000Z"
+date: "2020-02-16T18:53:00.000Z"
 description: "What Benzai10 is about and why it's called like that."
 ---
 
