@@ -1,7 +1,7 @@
 ---
 title: "Create a Gatsby Blog and Deploy it to Firebase Hosting"
 date: "2020-02-16T20:34:00.000Z"
-description: "How to create a blog with Gatsby JS and deploy it with Firebase Hosting in 30 minutes"
+description: "How to create a blog with Gatsby JS and deploy it with Firebase Hosting in 30 minutes."
 ---
 
 Objectives
