@@ -81,6 +81,6 @@ This is random stuff which needs to be added to this article or is planned for a
 * Saving an .md file doesn't hotload during development
 * Update the favicon
 * Add a comment section
-* Configure my laptop to support SSH authentication for multiple Github accounts
+* DONE: [Configure my laptop to support SSH authentication for multiple Github accounts](https://benzai10.com/login-to-multiple-github-accounts-with-ssh/)
 
 _last updated: February 16, 2020_
