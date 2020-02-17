@@ -54,8 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Munich and
-        Seoul building useful things.
+        Written by{" "}
+        <a href="https://benzai10.com/resume_mischa_steiner.pdf">{author}</a>{" "}
+        who lives and works in Munich and Seoul building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
