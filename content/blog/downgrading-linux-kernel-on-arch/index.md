@@ -39,3 +39,6 @@ By the way, there's a dedicated [Archwiki article](https://wiki.archlinux.org/in
 Happy to be still on Arch!
 ---
 I was really close to give up on Arch but I'm happy that I found an acceptable solution to stay. Although it was nerve-wrecking and I lost a few hours, I also learned some new stuff and in the end, switching to Debian or Ubuntu would cost me several hours in setting up as well. On the other hand, it was the first time I ran into a major issue on Arch in my field of usage and the current fix is completely okay for me. Let's hope issues like this will be as rare as I have experienced so far.
+
+##### Update 2020-03-10
+Absolutely amazing: Only a few days after I ran into the above problems, the Flutter community provided some hotfix that was made available on the AUR (Arch User Repository) under the package `flutter-git`. I tried it on my other development machine, a Lenovo Thinkpad 430s also running Arch Linux and it worked like a charm.
