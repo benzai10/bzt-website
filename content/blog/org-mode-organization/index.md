@@ -1,5 +1,5 @@
 ---
-title: Emacs: Org mode Organization
+title: "Emacs: Org mode Organization"
 date: "2020-03-17T08:00:00.000Z"
 description: "How I organize my workflow and notes with org mode"
 ---
