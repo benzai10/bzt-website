@@ -1,5 +1,5 @@
 ---
-title: "Easter 2020""
+title: "Easter 2020"
 date: "2020-04-12T22:44:00.000Z"
 description: "A blog entry to quickly describe the very weird time"
 ---
