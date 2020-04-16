@@ -7,7 +7,7 @@ description: "A new way to consume Youtube Videos and watch Netflix"
 Google Chromecast 3rd Generation
 ---
 
-I bought this steaming device online via MediaMarkt Germany since the current price of EUR 29.00 seemed to be quite attractive. Coming from South Korea, I first had to get used to the fact that delivery takes here almost a week but well, it's Coronatime and Easter weekend was in between, so no grudge here.
+I bought this streaming device online via MediaMarkt Germany since the current price of EUR 29.00 seemed to be quite attractive. Coming from South Korea, I first had to get used to the fact that delivery takes here almost a week but well, it's Coronatime and Easter weekend was in between, so no grudge here.
 
 I was rather surprised about the small size of the device after I took it out of the box. Installation was a breeze, plugging it in the HDMI port of the TV on one side and connect the other side with the power supply. A little bit annoying that it requires a separate power supply but I guess the HDMI port is not designed to also provide power.
 
