@@ -39,7 +39,7 @@ If you want to learn about Gatsby, I recommend to just go through the official [
 
 For this blog, I used the [gatsby-starter-blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/). If you look at the section "Features" you can see that a lot of useful stuff comes with it out of the box.
 
-I got started with: `gatsby new bzt-website https://github.com/gatsbyjs/gatsby-starter-blog`
+I got started with: `gatsby new <your-project-name> https://github.com/gatsbyjs/gatsby-starter-blog`
 
 Run the website in your local development environment with `gatsby develop`.
 
