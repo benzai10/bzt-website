@@ -4,7 +4,8 @@ date: "2020-04-12T22:44:00.000Z"
 description: "A blog entry to quickly describe the very weird time"
 ---
 
-Easter 2020 in the Time of the Corona Virus ---
+Easter 2020 in the Time of the Corona Virus
+---
 
 It's a very special and weird time. Today, I went for a walk. I couldn't go for
 a run because I still suffer from sore muscles from the day before yesterday. I
