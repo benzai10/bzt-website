@@ -4,7 +4,7 @@ date: "2020-04-16T21:07:00.000Z"
 description: "A new way to consume Youtube Videos and watch Netflix"
 ---
 
-Google Chromecast 3rd Generation
+"Unboxing"
 ---
 
 I bought this streaming device online via MediaMarkt Germany since the current price of EUR 29.00 seemed to be quite attractive. Coming from South Korea, I first had to get used to the fact that delivery takes here almost a week but well, it's Coronatime and Easter weekend was in between, so no grudge here.
