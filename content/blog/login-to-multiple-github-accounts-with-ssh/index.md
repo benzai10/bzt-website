@@ -54,3 +54,19 @@ You need to adjust the `[remote "origin"]` entries in the `.git/config` files of
 	...
 	
 &nbsp;  
+
+Cloning a Repo
+---
+When using multiple Github accounts, add the account name with a dash (like described above) when cloning the repo
+
+Change
+
+	git clone git@github.com:benzai10/<project>.git
+
+&nbsp;  
+to
+
+	git clone git@github.com-benzai10:benzai10/<project>.git
+	
+&nbsp;  
+&nbsp;  

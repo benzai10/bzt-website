@@ -78,8 +78,6 @@ Backlog Stuff
 ---
 This is random stuff which needs to be added to this article or is planned for a future article.
 
-* Saving an .md file doesn't hotload during development
-* Update the favicon
 * Add a comment section
 * DONE: [Configure my laptop to support SSH authentication for multiple Github accounts](https://benzai10.com/login-to-multiple-github-accounts-with-ssh/)
 
