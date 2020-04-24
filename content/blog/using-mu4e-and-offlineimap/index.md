@@ -125,5 +125,60 @@ tried several things in different settings combinations... Conclusion:
 It doesn't work.
 
 #### Finding a Workaround to Make it Work
-(to be continued)
+While trying to get it work with an [app
+password](https://support.google.com/accounts/answer/185833?hl=en)
+(which I eventually used for the standard Gmail accounts), I lost the
+patience to find a possible solution and I started to check for a
+workaround that's good enough.
+
+#### Objectives
+The minimum functionality I wanted was
+
+* All the emails from both, standard and custom domain email accounts
+  in mu4e
+* Being able to send and reply emails from mu4e
+
+
+My Current Working Configuration
+---
+In my offlineimap config file, I have my standard Gmail accounts
+configured using the app passwords. Using GPG passwords is a task for
+later. 
+
+#### Forwarding Emails from Custom Domain Accounts
+In the Gmail settings for a custom domain account in the tab
+'Forwarding and POP/IMAP', add 'Forwarding a copy...' to one of the
+standard Gmail accounts.
+
+#### Configure 'Send Email As'
+In order to be able to send and reply as a sender of a custom domain
+email address go to the standard Gmail account settings and add the
+custom domain emails in the tab 'Accounts and Import'.
+
+During the configuration process, uncheck the "Treat it as an alias"
+checkbox and for the account credentials, use the app password for the
+standard Gmail account.
+
+Don't forget to add the custom domain email addresses to your mu
+initialization (`mu init --my-address=<address1>
+--my-address=<address2>` etc.)
+
+
+Conclusion
+---
+I'm really happy that I finally made it! Using email in Emacs! And
+it's already such a better experience than Thunderbird which I used
+until now.
+
+I guess it's possible to create contexts to separate the standard and
+custom domain emails but that's something for later.
+
+One thing that I have to manually change when I reply to an email
+received with a custom domain account: The 'From' and 'To' addresses
+need to be swapped. Also something to fix later. I can live with it at
+the moment and just enjoy the new email experience.
+
+
+
+
 
