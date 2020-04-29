@@ -163,6 +163,14 @@ Don't forget to add the custom domain email addresses to your mu
 initialization (`mu init --my-address=<address1>
 --my-address=<address2>` etc.)
 
+#### Automated Recurring Email Sync
+I installed `cronie` from the Arch repository and started the service
+with `systemctl enable cronie` and `systemctl start cronie`.
+
+The crontab (edit with `crontab -e`, display it with `crontab -l`) for
+a sync every 5 minutes looks like this: `*/5 * * * * offlineimap -u
+quiet`.
+
 
 Conclusion
 ---
@@ -177,8 +185,6 @@ One thing that I have to manually change when I reply to an email
 received with a custom domain account: The 'From' and 'To' addresses
 need to be swapped. Also something to fix later. I can live with it at
 the moment and just enjoy the new email experience.
-
-
 
 
 
