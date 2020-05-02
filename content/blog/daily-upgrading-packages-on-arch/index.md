@@ -1,6 +1,6 @@
 ---
 title: "Kaizen #3: Daily Upgrade Packages on Arch"
-date: "2020-04-22T23:26:00.000Z"
+date: "2020-05-02T23:58:00.000Z"
 description: "Why I do yay -Syu everyday."
 ---
 
