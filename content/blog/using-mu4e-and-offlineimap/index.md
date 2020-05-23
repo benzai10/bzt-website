@@ -187,4 +187,17 @@ need to be swapped. Also something to fix later. I can live with it at
 the moment and just enjoy the new email experience.
 
 
+Updates
+---
+#### May 2020
+There's a problem when an email subject line in the inbox contains (certain)
+emojis. So far, I can say it's reproducable with the checkmark emoji. The
+problem is quite severe because when trying to access such an email, Emacs just
+crashes and has to be restarted.
+
+In order to use mu4e again, the email culprit has to be removed first. I
+currently do that by launching Emacs in terminal mode with `emacs -nw` but this
+can't be a sustainable solution. Luckily, so far it happens only very
+occasionally but it needs to be rectified sooner or later.
+
 
