@@ -14,7 +14,21 @@ In 2008 I had some software fatigue on Windows, I just wanted a computer that wo
 
 After almost 10 years and the ridiculous pricing politics by Apple--a new charger cost me once more than 100 US dollars in Korea--and their trend to make their hardware less and less expandable and fixable, I decided to look for alternatives.
 
-I already installed Linux for robotics-related development with [ROS](https://www.ros.org/) and step-by-step started my way out of the Apple ecosystem.
+I already installed Linux for robotics-related development with
+[ROS](https://www.ros.org/). Step-by-step, I started my way out of the
+Apple ecosystem. Later in that year, half of the display backlight on
+my Macbook went out of order, so it was time to find a new laptop.
 
-(wip, more to come)
+I researched on the Internet and found out that Lenovo Thinkpads, even
+or in particular, older models were a great match to use with Linux.
+Living in Seoul, South Korea, I headed to the Yongsan Electronics
+Market and in one of its bellies, at a second-hand laptop shop, I
+found a Thinkpad T420 in mint condition for an affordable 220 US
+dollars. For an extra 120 dollars I bought a 256GB mSATA disk for the
+system install.
+
+The performance improvement over the old Macbook was incredible and I
+was hooked.
+
+
 
