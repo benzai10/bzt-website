@@ -1,5 +1,5 @@
 ---
-title: "My Ode to Thinkpads (and Linux)"
+title: "My Ode to Thinkpads (and Linux) - Part 1"
 date: "2020-05-28T14:00:00.000Z"
 description: "My reminiscence how I got into Thinkpads and why I still think my Thinkpads are among the best purchases I ever made."
 ---
