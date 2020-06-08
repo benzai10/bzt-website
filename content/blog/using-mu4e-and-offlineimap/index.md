@@ -39,7 +39,7 @@ newly created `~/.config/offlineimap/` directory and renamed it to
 just `config`. 
 
 I followed the Gmail settings instructions from the page mentioned
-above and... yeah right, it didnt' work. But I was determined to not
+above and... yeah right, it didn't work. But I was determined to not
 give up too early. Since I tried to set up email on Emacs several
 years ago, I've learned a lot about Emacs and I've gained much more
 confidence that I would be able to handle the possible obstacles on
