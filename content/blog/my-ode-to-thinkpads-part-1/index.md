@@ -8,17 +8,17 @@ The King is Dead, Long Live the King! --- Good gear has always fascinated me and
 was something I was lusting after when seeing something new advertised in
 magazines (yes, you know these colorful paper thingies people used to read).
 
-My first own PC was a IBM AT 286 running MS-DOS. Good old times with spending
+My first own PC was an IBM AT 286 running MS-DOS. Good old times with spending
 hours tweaking `config.sys` and `autoexec.bat` just to make a new game work.
 After that, glorious Windows 3.1, Windows 95, working professionally with
 Windows NT/Windows Server.
 
 In 2008 I had some software fatigue on Windows, I just wanted a computer that
-works, has all the software I need and is a good piece of hardware. The new
+works, a device that has all the software I need and is a good piece of hardware. The new
 aluminum unibody Macbook was delivering all of that for me and it stood its
 ground until 2017.
 
-After almost 10 years and the ridiculous pricing politics by Apple--a new
+After almost 10 years and the recently ridiculous pricing politics by Apple--a new
 charger cost me once more than 100 US dollars in Korea--and their trend to make
 their hardware less and less expandable and fixable, I decided to look for
 alternatives.
@@ -26,7 +26,7 @@ alternatives.
 I already installed Linux for robotics-related development with
 [ROS](https://www.ros.org/). Step-by-step, I started my way out of the Apple
 ecosystem. Later in that year, half of the display backlight on my Macbook went
-out of order, so it was time to find a new laptop.
+dark, so it was time to find a new laptop.
 
 I researched on the Internet and found out that Lenovo Thinkpads, even or in
 particular, older models were a great match to use with Linux. Living in Seoul,
