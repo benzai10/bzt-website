@@ -6,4 +6,18 @@ description: "How I organize directories and files on my laptops and how I do ba
 
 My Home Directory
 ---
-(wip)
+- Archive
+- Books
+- Development
+- Documents
+- Downloads
+- Dropbox
+- Mails
+- Movies
+- Music
+- Pictures
+- Projects
+- Sources
+- Temp
+- Tools
+
