@@ -21,3 +21,12 @@ My Home Directory
 - Temp
 - Tools
 
+Backup Process
+---
+My current backup process is based on ```rsync``` and at the moment I
+do it manually to create backups of the folders on my home server. I
+haven't found any time to write an automated script and I prefer to
+have a process in place that works rather than postpone such an
+important task and eventually always forget about it.
+
+
