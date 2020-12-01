@@ -24,3 +24,12 @@ Scrollback and selecting/copying text works without any hiccups.
 There's one thing though I need to fix (later): Somehow, dwm shows
 "broken" as a window title for termite.
 
+## Update: Fix missing window title
+The utility `xprop` showed me that the `WM_NAME` is empty when I open
+a `termite` window on my computer. `termite --title="termite"` opens
+the terminal with the specified title, so I just had to change this in
+the `dwm` config file and after compiling `dwm` I now have a proper
+window title.
+
+`static const char *termcmd[]  = { "termite", "--title=termite" };
+`
