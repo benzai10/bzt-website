@@ -1,0 +1,1 @@
+module.exports = require("/home/bzt/Development/bzt-website/src/utils/typography")
